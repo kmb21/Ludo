@@ -119,7 +119,7 @@ class Ludo():
           
           
        
-   """def game_status(self):
+   def game_status(self):
        
        #Gives a summary each player's stats during the game
        #Returns:
@@ -147,7 +147,7 @@ class Ludo():
            else:
                print("Movements left:  %s%d = %d movements"%(self.house, n+1, item))   
            
-           n += 1"""
+           n += 1
        #print("Movements left:  %s2 = %d movements"%(self.house, remainder2))
        #print("Movements left:  %s3 = %d movements"%(self.house, remainder3))
        #print("Movements left:  %s4 = %d movements"%(self.house, remainder4))
